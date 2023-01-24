@@ -1,4 +1,4 @@
-# PHP Web Application for Login & SignUp 
+# Signup and Login Application
 This application allows users to signup and login to a website and includes validation for the signup form.
 
 ## Technologies Used
